@@ -1,0 +1,7 @@
+.gomaa123456{
+    
+    position: absolute;
+    top: 700px;
+    left: 400px;
+    border-radius: 20px;
+}
